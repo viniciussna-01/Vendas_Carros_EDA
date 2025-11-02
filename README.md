@@ -2,8 +2,8 @@
 > Análise as Vendas de Carros e Faz uma breve comparação
 
 ## 📄 Descrição
-Este notebook tem como objetivo [analisar dados de veículos, explorando padrões de preço, distribuição por marca, tipo de engrenagem e combustível, e identificar insights relevantes sobre o mercado automotivo.
-Ele foi desenvolvido usando Python, com as bibliotecas pandas para manipulação de dados e matplotlib para visualização gráfica.].  
+Este notebook tem como objetivo analisar dados de veículos, explorando padrões de preço, distribuição por marca, tipo de engrenagem e combustível, e identificar insights relevantes sobre o mercado automotivo.
+Ele foi desenvolvido usando Python, com as bibliotecas pandas para manipulação de dados e matplotlib para visualização gráfica.  
 
 ## 🛠 Tecnologias e Bibliotecas
 - Python 3.x
