@@ -4,7 +4,6 @@
 ## 📄 Descrição
 Este notebook tem como objetivo [Este notebook tem como objetivo analisar dados de veículos, explorando padrões de preço, distribuição por marca, tipo de engrenagem e combustível, e identificar insights relevantes sobre o mercado automotivo.
 Ele foi desenvolvido usando Python, com as bibliotecas pandas para manipulação de dados e matplotlib para visualização gráfica.].  
-Ele foi desenvolvido usando [Python / bibliotecas específicas, ex: pandas, matplotlib, seaborn, etc.].
 
 ## 🛠 Tecnologias e Bibliotecas
 - Python 3.x
@@ -12,7 +11,6 @@ Ele foi desenvolvido usando [Python / bibliotecas específicas, ex: pandas, matp
 - Matplotlib / Seaborn (ou outras que você usou)
 - Google Colab
 
-> Adicione aqui todas as bibliotecas usadas no notebook.
 
 ## 🚀 Como usar
 1. Faça o download do notebook (`.ipynb`) ou abra direto no Google Colab.
