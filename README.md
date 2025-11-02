@@ -1,5 +1,5 @@
 # Atividade_01_Vinícius_Magalhaes_de_Souza_Sena_IAD
-> Análise as Vendas de Carros e Faz uma breve comparação
+> Atividade da Faculdade da Cadeira de Introdução a Análise de Dados
 
 ## 📄 Descrição
 Este notebook tem como objetivo analisar dados de veículos, explorando padrões de preço, distribuição por marca, tipo de engrenagem e combustível, e identificar insights relevantes sobre o mercado automotivo.
